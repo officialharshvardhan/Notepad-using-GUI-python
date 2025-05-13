@@ -30,7 +30,7 @@ Notepad-GUI/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/Notepad-GUI.git
+git clone https://github.com/officialharshvardhan/Notepad-using-GUI-python
 cd Notepad-GUI
 ```
 
